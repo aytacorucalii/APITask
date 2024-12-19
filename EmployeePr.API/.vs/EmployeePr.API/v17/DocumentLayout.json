@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.bl\\services\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\services\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|solutionrelative:employee.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|solutionrelative:employee.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|solutionrelative:employee.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.bl\\services\\abstractions\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\services\\abstractions\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.bl\\dtos\\employeedtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\dtos\\employeedtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.bl\\services\\abstractions\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\services\\abstractions\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|solutionrelative:employee.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\Employee.Api.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\Employee.Api.csproj|solutionrelative:employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.dal\\repositories\\implementations\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|solutionrelative:employee.dal\\repositories\\implementations\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\employee.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "employee.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\employee.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeToolTip": "employee.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:55:02.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateEmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.BL\\DTOs\\EmployeeDTOs\\CreateEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "Employee.BL\\DTOs\\EmployeeDTOs\\CreateEmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.BL\\DTOs\\EmployeeDTOs\\CreateEmployeeDTO.cs",
+              "RelativeToolTip": "Employee.BL\\DTOs\\EmployeeDTOs\\CreateEmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:36:35.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\employee.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "employee.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\employee.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "employee.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwDYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:13:43.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.Api\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Employee.Api\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.Api\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Employee.Api\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:00:18.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.Api\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Employee.Api\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.Api\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Employee.Api\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:00:14.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.BL\\Services\\Implementations\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Employee.BL\\Services\\Implementations\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.BL\\Services\\Implementations\\EmployeeService.cs",
+              "RelativeToolTip": "Employee.BL\\Services\\Implementations\\EmployeeService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:26:46.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.BL\\Services\\Abstractions\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "Employee.BL\\Services\\Abstractions\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.BL\\Services\\Abstractions\\IDepartmentService.cs",
+              "RelativeToolTip": "Employee.BL\\Services\\Abstractions\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:26:00.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.BL\\Services\\Abstractions\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Employee.BL\\Services\\Abstractions\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.BL\\Services\\Abstractions\\IEmployeeService.cs",
+              "RelativeToolTip": "Employee.BL\\Services\\Abstractions\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:25:29.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\employee.DAL\\Repositories\\Implementations\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "employee.DAL\\Repositories\\Implementations\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\employee.DAL\\Repositories\\Implementations\\DepartmentRepository.cs",
+              "RelativeToolTip": "employee.DAL\\Repositories\\Implementations\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:17:16.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Employee.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.Api\\Program.cs",
+              "RelativeToolTip": "Employee.Api\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:51:41.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\EmployeePr.API\Employee.Core\bin\Debug\net8.0\EmployeePr.Core.deps.json
+C:\Users\Hp\source\repos\EmployeePr.API\Employee.Core\bin\Debug\net8.0\EmployeePr.Core.dll
+C:\Users\Hp\source\repos\EmployeePr.API\Employee.Core\bin\Debug\net8.0\EmployeePr.Core.pdb
+C:\Users\Hp\source\repos\EmployeePr.API\Employee.Core\obj\Debug\net8.0\EmployeePr.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\EmployeePr.API\Employee.Core\obj\Debug\net8.0\EmployeePr.Core.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\EmployeePr.API\Employee.Core\obj\Debug\net8.0\EmployeePr.Core.AssemblyInfo.cs
+C:\Users\Hp\source\repos\EmployeePr.API\Employee.Core\obj\Debug\net8.0\EmployeePr.Core.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\EmployeePr.API\Employee.Core\obj\Debug\net8.0\EmployeePr.Core.dll
+C:\Users\Hp\source\repos\EmployeePr.API\Employee.Core\obj\Debug\net8.0\refint\EmployeePr.Core.dll
+C:\Users\Hp\source\repos\EmployeePr.API\Employee.Core\obj\Debug\net8.0\EmployeePr.Core.pdb
+C:\Users\Hp\source\repos\EmployeePr.API\Employee.Core\obj\Debug\net8.0\ref\EmployeePr.Core.dll
