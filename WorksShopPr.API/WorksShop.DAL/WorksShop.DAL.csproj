@@ -19,8 +19,4 @@
     <ProjectReference Include="..\WorksShop.Core\WorksShop.Core.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="DAL\Configurations\" />
-  </ItemGroup>
-
 </Project>

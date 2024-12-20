@@ -37,7 +37,7 @@ public class EmployeeService : IEmployeeService
 
         await _employeeRepository.CreateAsync(employee);
 
-        await _employeeRepository.SaveChangesAsync(employee.Id);// error var
+        await _employeeRepository.SaveChangesAsync();// error var
         return employee;
     }
 
@@ -50,6 +50,7 @@ public class EmployeeService : IEmployeeService
     {
         await _employeeRepository.DeleteAsync(id);
     }
+
 }
 
    

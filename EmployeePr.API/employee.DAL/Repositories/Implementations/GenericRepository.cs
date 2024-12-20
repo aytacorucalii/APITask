@@ -50,7 +50,7 @@ public class GenericRepository<Tentity> : IGenericRepository<Tentity> where Tent
         }
     }
 
-    public async Task<int> SaveChangesAsync(int id)
+    public async Task<int> SaveChangesAsync()
     {
        return await _appDbContext.SaveChangesAsync();
     }

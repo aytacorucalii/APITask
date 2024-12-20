@@ -1,46 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\",
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.bl\\services\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\services\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\employeepr.api\\employee.dal\\dal\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|solutionrelative:employee.dal\\dal\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\employeepr.api\\employee.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|solutionrelative:employee.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|solutionrelative:employee.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\employeepr.api\\employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|solutionrelative:employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\employeepr.api\\employee.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|solutionrelative:employee.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.bl\\services\\abstractions\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\employeepr.api\\employee.bl\\services\\abstractions\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\services\\abstractions\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.bl\\dtos\\employeedtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\dtos\\employeedtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\employeepr.api\\employee.bl\\services\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\services\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.bl\\services\\abstractions\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\services\\abstractions\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\employeepr.api\\employee.dal\\dal\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|solutionrelative:employee.dal\\dal\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\employeepr.api\\employee.bl\\services\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\services\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\employeepr.api\\employee.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|solutionrelative:employee.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\Employee.Api.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\Employee.Api.csproj|solutionrelative:employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\employeepr.api\\employee.bl\\dtos\\employeedtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\dtos\\employeedtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|c:\\users\\hp\\source\\repos\\employeepr.api\\employee.dal\\repositories\\implementations\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|solutionrelative:employee.dal\\repositories\\implementations\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\employeepr.api\\employee.dal\\repositories\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|solutionrelative:employee.dal\\repositories\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\employeepr.api\\employee.dal\\repositories\\abstractions\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|solutionrelative:employee.dal\\repositories\\abstractions\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\employeepr.api\\employee.bl\\services\\abstractions\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\services\\abstractions\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,137 +62,189 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\employee.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "employee.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\employee.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "RelativeToolTip": "employee.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\employee.DAL\\DAL\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "employee.DAL\\DAL\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\employee.DAL\\DAL\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "employee.DAL\\DAL\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T06:55:02.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateEmployeeDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.BL\\DTOs\\EmployeeDTOs\\CreateEmployeeDTO.cs",
-              "RelativeDocumentMoniker": "Employee.BL\\DTOs\\EmployeeDTOs\\CreateEmployeeDTO.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.BL\\DTOs\\EmployeeDTOs\\CreateEmployeeDTO.cs",
-              "RelativeToolTip": "Employee.BL\\DTOs\\EmployeeDTOs\\CreateEmployeeDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T06:36:35.513Z",
+              "WhenOpened": "2024-12-19T14:18:26.365Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\employee.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\employee.DAL\\Repositories\\Implementations\\GenericRepository.cs",
               "RelativeDocumentMoniker": "employee.DAL\\Repositories\\Implementations\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\employee.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\employee.DAL\\Repositories\\Implementations\\GenericRepository.cs",
               "RelativeToolTip": "employee.DAL\\Repositories\\Implementations\\GenericRepository.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAiwDYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T06:13:43.751Z",
+              "WhenOpened": "2024-12-20T14:43:20.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Employee.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.Api\\Program.cs",
+              "RelativeToolTip": "Employee.Api\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:32:07.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.BL\\Services\\Implementations\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Employee.BL\\Services\\Implementations\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.BL\\Services\\Implementations\\EmployeeService.cs",
+              "RelativeToolTip": "Employee.BL\\Services\\Implementations\\EmployeeService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:57:45.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.Api\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Employee.Api\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.Api\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Employee.Api\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:18:24.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\employee.DAL\\DAL\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "employee.DAL\\DAL\\Configurations\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\employee.DAL\\DAL\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "employee.DAL\\DAL\\Configurations\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:18:08.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateEmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.BL\\DTOs\\EmployeeDTOs\\CreateEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "Employee.BL\\DTOs\\EmployeeDTOs\\CreateEmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.BL\\DTOs\\EmployeeDTOs\\CreateEmployeeDTO.cs",
+              "RelativeToolTip": "Employee.BL\\DTOs\\EmployeeDTOs\\CreateEmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:16:45.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.Api\\Controllers\\EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.Api\\Controllers\\EmployeesController.cs",
               "RelativeDocumentMoniker": "Employee.Api\\Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.Api\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.Api\\Controllers\\EmployeesController.cs",
               "RelativeToolTip": "Employee.Api\\Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAYwCsAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T06:00:18.51Z",
+              "WhenOpened": "2024-12-20T13:16:15.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\employee.DAL\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "employee.DAL\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\employee.DAL\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "RelativeToolTip": "employee.DAL\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:09:35.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\employee.DAL\\Repositories\\Abstractions\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "employee.DAL\\Repositories\\Abstractions\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\employee.DAL\\Repositories\\Abstractions\\IEmployeeRepository.cs",
+              "RelativeToolTip": "employee.DAL\\Repositories\\Abstractions\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:09:26.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.Api\\Controllers\\DepartmentsController.cs",
-              "RelativeDocumentMoniker": "Employee.Api\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.Api\\Controllers\\DepartmentsController.cs",
-              "RelativeToolTip": "Employee.Api\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAvAAAAAAAAAA==",
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.BL\\Services\\Implementations\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Employee.BL\\Services\\Implementations\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.BL\\Services\\Implementations\\DepartmentService.cs",
+              "RelativeToolTip": "Employee.BL\\Services\\Implementations\\DepartmentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T06:00:14.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.BL\\Services\\Implementations\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "Employee.BL\\Services\\Implementations\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.BL\\Services\\Implementations\\EmployeeService.cs",
-              "RelativeToolTip": "Employee.BL\\Services\\Implementations\\EmployeeService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAIwCcAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T05:26:46.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IDepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.BL\\Services\\Abstractions\\IDepartmentService.cs",
-              "RelativeDocumentMoniker": "Employee.BL\\Services\\Abstractions\\IDepartmentService.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.BL\\Services\\Abstractions\\IDepartmentService.cs",
-              "RelativeToolTip": "Employee.BL\\Services\\Abstractions\\IDepartmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T05:26:00.748Z",
+              "WhenOpened": "2024-12-20T13:00:17.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.BL\\Services\\Abstractions\\IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.BL\\Services\\Abstractions\\IEmployeeService.cs",
               "RelativeDocumentMoniker": "Employee.BL\\Services\\Abstractions\\IEmployeeService.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.BL\\Services\\Abstractions\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.BL\\Services\\Abstractions\\IEmployeeService.cs",
               "RelativeToolTip": "Employee.BL\\Services\\Abstractions\\IEmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T05:25:29.795Z",
+              "WhenOpened": "2024-12-20T13:00:14.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DepartmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\employee.DAL\\Repositories\\Implementations\\DepartmentRepository.cs",
-              "RelativeDocumentMoniker": "employee.DAL\\Repositories\\Implementations\\DepartmentRepository.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\employee.DAL\\Repositories\\Implementations\\DepartmentRepository.cs",
-              "RelativeToolTip": "employee.DAL\\Repositories\\Implementations\\DepartmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABYAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.BL\\Services\\Abstractions\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "Employee.BL\\Services\\Abstractions\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.BL\\Services\\Abstractions\\IDepartmentService.cs",
+              "RelativeToolTip": "Employee.BL\\Services\\Abstractions\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T05:17:16.641Z",
+              "WhenOpened": "2024-12-20T13:00:12.354Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Employee.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.Api\\Program.cs",
-              "RelativeToolTip": "Employee.Api\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T03:51:41.533Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

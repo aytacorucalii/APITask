@@ -16,13 +16,13 @@ namespace EmployeeProj.Api.Controllers
             _departmentService = departmentService;
         }
 
+
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Department>>> GetAll()
         {
             var departments = await _departmentService.GetAllAsync();
             return Ok(departments);
         }
-
        
         [HttpGet("{id}")]
         public async Task<ActionResult<Department>> GetById(int id)

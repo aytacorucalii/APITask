@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.Core\\EmployeePr.Core.csproj": {}
+    "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.Core\\EmployeePr.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.Core\\EmployeePr.Core.csproj": {
+    "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.Core\\EmployeePr.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.Core\\EmployeePr.Core.csproj",
+        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.Core\\EmployeePr.Core.csproj",
         "projectName": "EmployeePr.Core",
-        "projectPath": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.Core\\EmployeePr.Core.csproj",
-        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\source\\repos\\EmployeePr.API\\Employee.Core\\obj\\",
+        "projectPath": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.Core\\EmployeePr.Core.csproj",
+        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\EmployeePr.API\\Employee.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

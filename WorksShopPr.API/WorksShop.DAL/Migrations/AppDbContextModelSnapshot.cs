@@ -6,7 +6,6 @@ using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WorksShop.DAL.DAL;
 
-
 #nullable disable
 
 namespace WorksShop.DAL.Migrations
@@ -53,10 +52,10 @@ namespace WorksShop.DAL.Migrations
 
                     b.HasIndex("WorkShopId");
 
-                    b.ToTable("participants");
+                    b.ToTable("Participants");
                 });
 
-            modelBuilder.Entity("WorksShop.Core.Entities.WorkShop", b =>
+            modelBuilder.Entity("WorksShop.Core.Entities.Workshop", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -64,7 +63,7 @@ namespace WorksShop.DAL.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<DateTime>("Date")
+                    b.Property<DateTime?>("Date")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Description")
@@ -75,7 +74,6 @@ namespace WorksShop.DAL.Migrations
                         .HasColumnType("bit");
 
                     b.Property<string>("Location")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Title")
@@ -84,12 +82,12 @@ namespace WorksShop.DAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("workShops");
+                    b.ToTable("WorkShops");
                 });
 
             modelBuilder.Entity("WorksShop.Core.Entities.Participant", b =>
                 {
-                    b.HasOne("WorksShop.Core.Entities.WorkShop", "workshop")
+                    b.HasOne("WorksShop.Core.Entities.Workshop", "workshop")
                         .WithMany("Participants")
                         .HasForeignKey("WorkShopId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -98,7 +96,7 @@ namespace WorksShop.DAL.Migrations
                     b.Navigation("workshop");
                 });
 
-            modelBuilder.Entity("WorksShop.Core.Entities.WorkShop", b =>
+            modelBuilder.Entity("WorksShop.Core.Entities.Workshop", b =>
                 {
                     b.Navigation("Participants");
                 });

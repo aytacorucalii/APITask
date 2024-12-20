@@ -9,7 +9,7 @@ namespace WorksShop.Core.Entities
         public string Phone { get; set; }
 
         public int WorkShopId { get; set; }
-        public WorkShop? workshop { get; set; }
+        public Workshop? workshop { get; set; }
 
     }
 }

@@ -41,10 +41,10 @@ namespace EmployeeProj.Api.Controllers
 
 
         [HttpPost]
-        public async Task<Employee> Create(CreateEmployeeDTO createEmployee)
+        public async Task<ActionResult<Employee>> Create(CreateEmployeeDTO createEmployee)
         {
             return await _employeeService.CreateAsync(createEmployee);
-           
+ 
         }
 
 

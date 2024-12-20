@@ -1,5 +1,8 @@
-﻿namespace WorksShop.DAL.Repositories.Abstractions;
+﻿using WorksShop.Core.Entities;
 
-public interface IWorkShopRepository
+namespace WorksShop.DAL.Repositories.Abstractions;
+
+public interface IWorkShopRepository: IGenericRepository<Workshop>
 {
+
 }

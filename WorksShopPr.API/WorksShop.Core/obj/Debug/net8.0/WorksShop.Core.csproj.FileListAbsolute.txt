@@ -10,3 +10,15 @@ C:\Users\II Novbe\source\repos\WorksShopPr.API\WorksShop.Core\obj\Debug\net8.0\W
 C:\Users\II Novbe\source\repos\WorksShopPr.API\WorksShop.Core\obj\Debug\net8.0\refint\WorksShop.Core.dll
 C:\Users\II Novbe\source\repos\WorksShopPr.API\WorksShop.Core\obj\Debug\net8.0\WorksShop.Core.pdb
 C:\Users\II Novbe\source\repos\WorksShopPr.API\WorksShop.Core\obj\Debug\net8.0\ref\WorksShop.Core.dll
+C:\Users\II Novbe\Desktop\APi\API-Task\WorksShopPr.API\WorksShop.Core\bin\Debug\net8.0\WorksShop.Core.deps.json
+C:\Users\II Novbe\Desktop\APi\API-Task\WorksShopPr.API\WorksShop.Core\bin\Debug\net8.0\WorksShop.Core.dll
+C:\Users\II Novbe\Desktop\APi\API-Task\WorksShopPr.API\WorksShop.Core\bin\Debug\net8.0\WorksShop.Core.pdb
+C:\Users\II Novbe\Desktop\APi\API-Task\WorksShopPr.API\WorksShop.Core\obj\Debug\net8.0\WorksShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\APi\API-Task\WorksShopPr.API\WorksShop.Core\obj\Debug\net8.0\WorksShop.Core.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\APi\API-Task\WorksShopPr.API\WorksShop.Core\obj\Debug\net8.0\WorksShop.Core.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\APi\API-Task\WorksShopPr.API\WorksShop.Core\obj\Debug\net8.0\WorksShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\APi\API-Task\WorksShopPr.API\WorksShop.Core\obj\Debug\net8.0\WorksShop.Core.sourcelink.json
+C:\Users\II Novbe\Desktop\APi\API-Task\WorksShopPr.API\WorksShop.Core\obj\Debug\net8.0\WorksShop.Core.dll
+C:\Users\II Novbe\Desktop\APi\API-Task\WorksShopPr.API\WorksShop.Core\obj\Debug\net8.0\refint\WorksShop.Core.dll
+C:\Users\II Novbe\Desktop\APi\API-Task\WorksShopPr.API\WorksShop.Core\obj\Debug\net8.0\WorksShop.Core.pdb
+C:\Users\II Novbe\Desktop\APi\API-Task\WorksShopPr.API\WorksShop.Core\obj\Debug\net8.0\ref\WorksShop.Core.dll

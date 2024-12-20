@@ -1,82 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\",
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16364ECD-8746-475B-8781-6FFD04FBD90E}|WorksShop.BL\\WorksShop.BL.csproj|c:\\users\\ii novbe\\source\\repos\\worksshoppr.api\\worksshop.bl\\services\\abstractions\\iworkshopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16364ECD-8746-475B-8781-6FFD04FBD90E}|WorksShop.BL\\WorksShop.BL.csproj|solutionrelative:worksshop.bl\\services\\abstractions\\iworkshopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16364ECD-8746-475B-8781-6FFD04FBD90E}|WorksShop.BL\\WorksShop.BL.csproj|c:\\users\\ii novbe\\source\\repos\\worksshoppr.api\\worksshop.bl\\services\\abstractions\\iparticipantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16364ECD-8746-475B-8781-6FFD04FBD90E}|WorksShop.BL\\WorksShop.BL.csproj|solutionrelative:worksshop.bl\\services\\abstractions\\iparticipantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16364ECD-8746-475B-8781-6FFD04FBD90E}|WorksShop.BL\\WorksShop.BL.csproj|c:\\users\\ii novbe\\source\\repos\\worksshoppr.api\\worksshop.bl\\services\\implementations\\workservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16364ECD-8746-475B-8781-6FFD04FBD90E}|WorksShop.BL\\WorksShop.BL.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\worksshoppr.api\\worksshop.bl\\services\\implementations\\workservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16364ECD-8746-475B-8781-6FFD04FBD90E}|WorksShop.BL\\WorksShop.BL.csproj|solutionrelative:worksshop.bl\\services\\implementations\\workservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16364ECD-8746-475B-8781-6FFD04FBD90E}|WorksShop.BL\\WorksShop.BL.csproj|c:\\users\\ii novbe\\source\\repos\\worksshoppr.api\\worksshop.bl\\services\\implementations\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16364ECD-8746-475B-8781-6FFD04FBD90E}|WorksShop.BL\\WorksShop.BL.csproj|solutionrelative:worksshop.bl\\services\\implementations\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\worksshoppr.api\\worksshop.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|solutionrelative:worksshop.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\worksshoppr.api\\worksshop.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|solutionrelative:worksshop.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\worksshoppr.api\\worksshop.dal\\repositories\\abstractions\\iparticipantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|solutionrelative:worksshop.dal\\repositories\\abstractions\\iparticipantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\worksshoppr.api\\worksshop.dal\\repositories\\abstractions\\iworkshoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|solutionrelative:worksshop.dal\\repositories\\abstractions\\iworkshoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\worksshoppr.api\\worksshop.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|solutionrelative:worksshop.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F55E803-7DFE-40DA-BF7F-B8DDAA92746A}|WorkShop.API\\WorkShop.API.csproj|c:\\users\\ii novbe\\source\\repos\\worksshoppr.api\\workshop.api\\controllers\\workshopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F55E803-7DFE-40DA-BF7F-B8DDAA92746A}|WorkShop.API\\WorkShop.API.csproj|solutionrelative:workshop.api\\controllers\\workshopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F55E803-7DFE-40DA-BF7F-B8DDAA92746A}|WorkShop.API\\WorkShop.API.csproj|c:\\users\\ii novbe\\source\\repos\\worksshoppr.api\\workshop.api\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F55E803-7DFE-40DA-BF7F-B8DDAA92746A}|WorkShop.API\\WorkShop.API.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\worksshoppr.api\\workshop.api\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F55E803-7DFE-40DA-BF7F-B8DDAA92746A}|WorkShop.API\\WorkShop.API.csproj|solutionrelative:workshop.api\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA49CC59-3F7E-4CFB-9889-506A4065A912}|WorksShop.Core\\WorksShop.Core.csproj|c:\\users\\ii novbe\\source\\repos\\worksshoppr.api\\worksshop.core\\entities\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F55E803-7DFE-40DA-BF7F-B8DDAA92746A}|WorkShop.API\\WorkShop.API.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\worksshoppr.api\\workshop.api\\controllers\\workshopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F55E803-7DFE-40DA-BF7F-B8DDAA92746A}|WorkShop.API\\WorkShop.API.csproj|solutionrelative:workshop.api\\controllers\\workshopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\worksshoppr.api\\worksshop.dal\\dal\\configurations\\workshopconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|solutionrelative:worksshop.dal\\dal\\configurations\\workshopconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16364ECD-8746-475B-8781-6FFD04FBD90E}|WorksShop.BL\\WorksShop.BL.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\worksshoppr.api\\worksshop.bl\\services\\implementations\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16364ECD-8746-475B-8781-6FFD04FBD90E}|WorksShop.BL\\WorksShop.BL.csproj|solutionrelative:worksshop.bl\\services\\implementations\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16364ECD-8746-475B-8781-6FFD04FBD90E}|WorksShop.BL\\WorksShop.BL.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\worksshoppr.api\\worksshop.bl\\services\\abstractions\\iworkshopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16364ECD-8746-475B-8781-6FFD04FBD90E}|WorksShop.BL\\WorksShop.BL.csproj|solutionrelative:worksshop.bl\\services\\abstractions\\iworkshopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16364ECD-8746-475B-8781-6FFD04FBD90E}|WorksShop.BL\\WorksShop.BL.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\worksshoppr.api\\worksshop.bl\\services\\abstractions\\iparticipantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16364ECD-8746-475B-8781-6FFD04FBD90E}|WorksShop.BL\\WorksShop.BL.csproj|solutionrelative:worksshop.bl\\services\\abstractions\\iparticipantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16364ECD-8746-475B-8781-6FFD04FBD90E}|WorksShop.BL\\WorksShop.BL.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\worksshoppr.api\\worksshop.bl\\dtos\\participantsdtos\\participantcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16364ECD-8746-475B-8781-6FFD04FBD90E}|WorksShop.BL\\WorksShop.BL.csproj|solutionrelative:worksshop.bl\\dtos\\participantsdtos\\participantcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA49CC59-3F7E-4CFB-9889-506A4065A912}|WorksShop.Core\\WorksShop.Core.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\worksshoppr.api\\worksshop.core\\entities\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA49CC59-3F7E-4CFB-9889-506A4065A912}|WorksShop.Core\\WorksShop.Core.csproj|solutionrelative:worksshop.core\\entities\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA49CC59-3F7E-4CFB-9889-506A4065A912}|WorksShop.Core\\WorksShop.Core.csproj|c:\\users\\ii novbe\\source\\repos\\worksshoppr.api\\worksshop.core\\entities\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA49CC59-3F7E-4CFB-9889-506A4065A912}|WorksShop.Core\\WorksShop.Core.csproj|solutionrelative:worksshop.core\\entities\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16364ECD-8746-475B-8781-6FFD04FBD90E}|WorksShop.BL\\WorksShop.BL.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\worksshoppr.api\\worksshop.bl\\dtos\\workshopdtos\\workshopcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16364ECD-8746-475B-8781-6FFD04FBD90E}|WorksShop.BL\\WorksShop.BL.csproj|solutionrelative:worksshop.bl\\dtos\\workshopdtos\\workshopcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\worksshoppr.api\\worksshop.dal\\migrations\\20241219140627_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|solutionrelative:worksshop.dal\\migrations\\20241219140627_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F55E803-7DFE-40DA-BF7F-B8DDAA92746A}|WorkShop.API\\WorkShop.API.csproj|c:\\users\\ii novbe\\source\\repos\\worksshoppr.api\\workshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8F55E803-7DFE-40DA-BF7F-B8DDAA92746A}|WorkShop.API\\WorkShop.API.csproj|solutionrelative:workshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F55E803-7DFE-40DA-BF7F-B8DDAA92746A}|WorkShop.API\\WorkShop.API.csproj|c:\\users\\ii novbe\\source\\repos\\worksshoppr.api\\workshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F55E803-7DFE-40DA-BF7F-B8DDAA92746A}|WorkShop.API\\WorkShop.API.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\worksshoppr.api\\workshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F55E803-7DFE-40DA-BF7F-B8DDAA92746A}|WorkShop.API\\WorkShop.API.csproj|solutionrelative:workshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA49CC59-3F7E-4CFB-9889-506A4065A912}|WorksShop.Core\\WorksShop.Core.csproj|c:\\users\\ii novbe\\source\\repos\\worksshoppr.api\\worksshop.core\\entities\\base\\baseauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA49CC59-3F7E-4CFB-9889-506A4065A912}|WorksShop.Core\\WorksShop.Core.csproj|solutionrelative:worksshop.core\\entities\\base\\baseauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\worksshoppr.api\\worksshop.dal\\dal\\configurations\\participantconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|solutionrelative:worksshop.dal\\dal\\configurations\\participantconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA49CC59-3F7E-4CFB-9889-506A4065A912}|WorksShop.Core\\WorksShop.Core.csproj|c:\\users\\ii novbe\\source\\repos\\worksshoppr.api\\worksshop.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\worksshoppr.api\\worksshop.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|solutionrelative:worksshop.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.DAL\\Migrations\\20241220143842_nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorksShop.DAL\\Migrations\\20241220143842_nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA49CC59-3F7E-4CFB-9889-506A4065A912}|WorksShop.Core\\WorksShop.Core.csproj|c:\\users\\ii novbe\\desktop\\api\\api-task\\worksshoppr.api\\worksshop.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA49CC59-3F7E-4CFB-9889-506A4065A912}|WorksShop.Core\\WorksShop.Core.csproj|solutionrelative:worksshop.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\worksshoppr.api\\worksshop.dal\\migrations\\20241219141416_dbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B65A8A-5346-439A-96E6-3A13412D7DB6}|WorksShop.DAL\\WorksShop.DAL.csproj|solutionrelative:worksshop.dal\\migrations\\20241219141416_dbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,232 +86,198 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ParticipantService.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.BL\\Services\\Implementations\\ParticipantService.cs",
-              "RelativeDocumentMoniker": "WorksShop.BL\\Services\\Implementations\\ParticipantService.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.BL\\Services\\Implementations\\ParticipantService.cs",
-              "RelativeToolTip": "WorksShop.BL\\Services\\Implementations\\ParticipantService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:54:32.64Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WorkService.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.BL\\Services\\Implementations\\WorkService.cs",
-              "RelativeDocumentMoniker": "WorksShop.BL\\Services\\Implementations\\WorkService.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.BL\\Services\\Implementations\\WorkService.cs",
-              "RelativeToolTip": "WorksShop.BL\\Services\\Implementations\\WorkService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:53:09.798Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IParticipantService.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.BL\\Services\\Abstractions\\IParticipantService.cs",
-              "RelativeDocumentMoniker": "WorksShop.BL\\Services\\Abstractions\\IParticipantService.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.BL\\Services\\Abstractions\\IParticipantService.cs",
-              "RelativeToolTip": "WorksShop.BL\\Services\\Abstractions\\IParticipantService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "ParticipantsController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorkShop.API\\Controllers\\ParticipantsController.cs",
+              "RelativeDocumentMoniker": "WorkShop.API\\Controllers\\ParticipantsController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorkShop.API\\Controllers\\ParticipantsController.cs",
+              "RelativeToolTip": "WorkShop.API\\Controllers\\ParticipantsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwC8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:52:25.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IWorkShopService.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.BL\\Services\\Abstractions\\IWorkShopService.cs",
-              "RelativeDocumentMoniker": "WorksShop.BL\\Services\\Abstractions\\IWorkShopService.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.BL\\Services\\Abstractions\\IWorkShopService.cs",
-              "RelativeToolTip": "WorksShop.BL\\Services\\Abstractions\\IWorkShopService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:51:55.185Z",
+              "WhenOpened": "2024-12-20T15:00:23.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.DAL\\Repositories\\Implementations\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "WorksShop.DAL\\Repositories\\Implementations\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.DAL\\Repositories\\Implementations\\GenericRepository.cs",
-              "RelativeToolTip": "WorksShop.DAL\\Repositories\\Implementations\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Title": "ParticipantService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.BL\\Services\\Implementations\\ParticipantService.cs",
+              "RelativeDocumentMoniker": "WorksShop.BL\\Services\\Implementations\\ParticipantService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.BL\\Services\\Implementations\\ParticipantService.cs",
+              "RelativeToolTip": "WorksShop.BL\\Services\\Implementations\\ParticipantService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:25:11.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "WorksShop.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "RelativeToolTip": "WorksShop.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:22:33.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IParticipantRepository.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.DAL\\Repositories\\Abstractions\\IParticipantRepository.cs",
-              "RelativeDocumentMoniker": "WorksShop.DAL\\Repositories\\Abstractions\\IParticipantRepository.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.DAL\\Repositories\\Abstractions\\IParticipantRepository.cs",
-              "RelativeToolTip": "WorksShop.DAL\\Repositories\\Abstractions\\IParticipantRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:21:19.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IWorkShopRepository.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.DAL\\Repositories\\Abstractions\\IWorkShopRepository.cs",
-              "RelativeDocumentMoniker": "WorksShop.DAL\\Repositories\\Abstractions\\IWorkShopRepository.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.DAL\\Repositories\\Abstractions\\IWorkShopRepository.cs",
-              "RelativeToolTip": "WorksShop.DAL\\Repositories\\Abstractions\\IWorkShopRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:20:23.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20241219141416_DbSet.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.DAL\\Migrations\\20241219141416_DbSet.cs",
-              "RelativeDocumentMoniker": "WorksShop.DAL\\Migrations\\20241219141416_DbSet.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.DAL\\Migrations\\20241219141416_DbSet.cs",
-              "RelativeToolTip": "WorksShop.DAL\\Migrations\\20241219141416_DbSet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:14:16.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ParticipantsController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorkShop.API\\Controllers\\ParticipantsController.cs",
-              "RelativeDocumentMoniker": "WorkShop.API\\Controllers\\ParticipantsController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorkShop.API\\Controllers\\ParticipantsController.cs",
-              "RelativeToolTip": "WorkShop.API\\Controllers\\ParticipantsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:13:32.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WorkShopsController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorkShop.API\\Controllers\\WorkShopsController.cs",
-              "RelativeDocumentMoniker": "WorkShop.API\\Controllers\\WorkShopsController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorkShop.API\\Controllers\\WorkShopsController.cs",
-              "RelativeToolTip": "WorkShop.API\\Controllers\\WorkShopsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:12:34.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "20241219140627_initial.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.DAL\\Migrations\\20241219140627_initial.cs",
-              "RelativeDocumentMoniker": "WorksShop.DAL\\Migrations\\20241219140627_initial.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.DAL\\Migrations\\20241219140627_initial.cs",
-              "RelativeToolTip": "WorksShop.DAL\\Migrations\\20241219140627_initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:06:27.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorkShop.API\\appsettings.json",
-              "RelativeDocumentMoniker": "WorkShop.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorkShop.API\\appsettings.json",
-              "RelativeToolTip": "WorkShop.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-19T14:04:30.657Z"
+              "WhenOpened": "2024-12-20T14:54:25.253Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.DAL\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "WorksShop.DAL\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.DAL\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "WorksShop.DAL\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABWAAAAAAAAAA==",
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.Core\\Entities\\Participant.cs",
+              "RelativeDocumentMoniker": "WorksShop.Core\\Entities\\Participant.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.Core\\Entities\\Participant.cs",
+              "RelativeToolTip": "WorksShop.Core\\Entities\\Participant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T13:51:01.486Z"
+              "WhenOpened": "2024-12-20T14:53:22.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkShopCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.BL\\DTOs\\WorkShopDTOs\\WorkShopCreateDTO.cs",
+              "RelativeDocumentMoniker": "WorksShop.BL\\DTOs\\WorkShopDTOs\\WorkShopCreateDTO.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.BL\\DTOs\\WorkShopDTOs\\WorkShopCreateDTO.cs",
+              "RelativeToolTip": "WorksShop.BL\\DTOs\\WorkShopDTOs\\WorkShopCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:53:10.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParticipantCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.BL\\DTOs\\ParticipantsDTOs\\ParticipantCreateDTO.cs",
+              "RelativeDocumentMoniker": "WorksShop.BL\\DTOs\\ParticipantsDTOs\\ParticipantCreateDTO.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.BL\\DTOs\\ParticipantsDTOs\\ParticipantCreateDTO.cs",
+              "RelativeToolTip": "WorksShop.BL\\DTOs\\ParticipantsDTOs\\ParticipantCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:52:55.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IParticipantService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.BL\\Services\\Abstractions\\IParticipantService.cs",
+              "RelativeDocumentMoniker": "WorksShop.BL\\Services\\Abstractions\\IParticipantService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.BL\\Services\\Abstractions\\IParticipantService.cs",
+              "RelativeToolTip": "WorksShop.BL\\Services\\Abstractions\\IParticipantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:51:54.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorkShop.API\\Program.cs",
+              "RelativeDocumentMoniker": "WorkShop.API\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorkShop.API\\Program.cs",
+              "RelativeToolTip": "WorkShop.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:51:33.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkShopsController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorkShop.API\\Controllers\\WorkShopsController.cs",
+              "RelativeDocumentMoniker": "WorkShop.API\\Controllers\\WorkShopsController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorkShop.API\\Controllers\\WorkShopsController.cs",
+              "RelativeToolTip": "WorkShop.API\\Controllers\\WorkShopsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:50:23.597Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Participant.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.Core\\Entities\\Participant.cs",
-              "RelativeDocumentMoniker": "WorksShop.Core\\Entities\\Participant.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.Core\\Entities\\Participant.cs",
-              "RelativeToolTip": "WorksShop.Core\\Entities\\Participant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Title": "ParticipantConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.DAL\\DAL\\Configurations\\ParticipantConfiguration.cs",
+              "RelativeDocumentMoniker": "WorksShop.DAL\\DAL\\Configurations\\ParticipantConfiguration.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.DAL\\DAL\\Configurations\\ParticipantConfiguration.cs",
+              "RelativeToolTip": "WorksShop.DAL\\DAL\\Configurations\\ParticipantConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T13:41:36.617Z"
+              "WhenOpened": "2024-12-20T14:47:14.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkShopConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.DAL\\DAL\\Configurations\\WorkShopConfiguration.cs",
+              "RelativeDocumentMoniker": "WorksShop.DAL\\DAL\\Configurations\\WorkShopConfiguration.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.DAL\\DAL\\Configurations\\WorkShopConfiguration.cs",
+              "RelativeToolTip": "WorksShop.DAL\\DAL\\Configurations\\WorkShopConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:46:46.534Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "WorkShop.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.Core\\Entities\\WorkShop.cs",
-              "RelativeDocumentMoniker": "WorksShop.Core\\Entities\\WorkShop.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.Core\\Entities\\WorkShop.cs",
-              "RelativeToolTip": "WorksShop.Core\\Entities\\WorkShop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.DAL\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WorksShop.DAL\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.DAL\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "WorksShop.DAL\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T13:40:39.746Z"
+              "WhenOpened": "2024-12-20T14:45:24.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BaseAuditable.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.Core\\Entities\\Base\\BaseAuditable.cs",
-              "RelativeDocumentMoniker": "WorksShop.Core\\Entities\\Base\\BaseAuditable.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.Core\\Entities\\Base\\BaseAuditable.cs",
-              "RelativeToolTip": "WorksShop.Core\\Entities\\Base\\BaseAuditable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "WorkService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.BL\\Services\\Implementations\\WorkService.cs",
+              "RelativeDocumentMoniker": "WorksShop.BL\\Services\\Implementations\\WorkService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.BL\\Services\\Implementations\\WorkService.cs",
+              "RelativeToolTip": "WorksShop.BL\\Services\\Implementations\\WorkService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T13:38:59.38Z"
+              "WhenOpened": "2024-12-20T14:41:05.621Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 5,
+              "Title": "IWorkShopService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.BL\\Services\\Abstractions\\IWorkShopService.cs",
+              "RelativeDocumentMoniker": "WorksShop.BL\\Services\\Abstractions\\IWorkShopService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.BL\\Services\\Abstractions\\IWorkShopService.cs",
+              "RelativeToolTip": "WorksShop.BL\\Services\\Abstractions\\IWorkShopService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:41:03.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241220143842_nullable.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.DAL\\Migrations\\20241220143842_nullable.cs",
+              "RelativeDocumentMoniker": "WorksShop.DAL\\Migrations\\20241220143842_nullable.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.DAL\\Migrations\\20241220143842_nullable.cs",
+              "RelativeToolTip": "WorksShop.DAL\\Migrations\\20241220143842_nullable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:38:42.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.Core\\Entities\\Base\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.Core\\Entities\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "WorksShop.Core\\Entities\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorksShop.Core\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\WorksShopPr.API\\WorksShop.Core\\Entities\\Base\\BaseEntity.cs",
               "RelativeToolTip": "WorksShop.Core\\Entities\\Base\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T13:38:02.034Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorkShop.API\\Program.cs",
-              "RelativeDocumentMoniker": "WorkShop.API\\Program.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\WorksShopPr.API\\WorkShop.API\\Program.cs",
-              "RelativeToolTip": "WorkShop.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T13:36:37.139Z"
+              "WhenOpened": "2024-12-19T13:38:02.034Z",
+              "EditorCaption": ""
             }
           ]
         }
