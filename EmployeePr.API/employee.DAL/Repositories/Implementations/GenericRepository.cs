@@ -2,12 +2,6 @@
 using EmployeePr.Core.Entities.Base;
 using EmployeePr.DAL.DAL;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace employeePr.DAL.Repositories.Implementations;
 
 public class GenericRepository<Tentity> : IGenericRepository<Tentity> where Tentity : BaseEntity, new()

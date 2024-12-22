@@ -1,6 +1,4 @@
-﻿
-
-using EmployeePr.Core.Entities;
+﻿using EmployeePr.Core.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 

@@ -1,5 +1,6 @@
 ﻿
 
+using AutoMapper;
 using employeePr.DAL.Repositories.Abstractions;
 using EmployeePr.BL.DTOs.EmployeeDTOs;
 using EmployeePr.BL.Services.Abstractions;
@@ -10,9 +11,11 @@ namespace EmployeePr.BL.Services.Implementations;
 public class EmployeeService : IEmployeeService
 {
     private readonly IEmployeeRepository _employeeRepository;
-    public EmployeeService(IEmployeeRepository employeeRepository)
+    private readonly IMapper _mapper;
+    public EmployeeService(IEmployeeRepository employeeRepository, IMapper mapper)
     {
         _employeeRepository = employeeRepository;
+        _mapper = mapper;
     }
     public async Task<IEnumerable<Employee>> GetAllAsync()
     {
@@ -25,19 +28,12 @@ public class EmployeeService : IEmployeeService
 
     public async Task<Employee> CreateAsync(CreateEmployeeDTO createEmployee)
     {
-        Employee employee = new Employee
-        {
-            Name = createEmployee.Name,
-            SurName = createEmployee.SurName,
-            DepartmentId = createEmployee.DepartmentId,
-            CreatedAt = DateTime.Now,
-            UpdatedAt = DateTime.Now,
-            DeletedAt = DateTime.Now
-        };
 
+
+        Employee employee = _mapper.Map<Employee>(createEmployee);
+        employee.CreatedAt = DateTime.UtcNow.AddHours(4);
         await _employeeRepository.CreateAsync(employee);
-
-        await _employeeRepository.SaveChangesAsync();// error var
+        await _employeeRepository.SaveChangesAsync();
         return employee;
     }
 
