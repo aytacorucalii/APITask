@@ -24,7 +24,6 @@ builder.Services.AddControllers();
 builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
 {
     {
-
         opt.Password.RequiredLength = 8;
         opt.User.RequireUniqueEmail = true;
         opt.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyz0123456789._";
@@ -32,6 +31,7 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
         opt.Lockout.MaxFailedAccessAttempts = 3;
     }
 }).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
+
 
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -45,6 +45,7 @@ builder.Services.AddDbContext<AppDbContext>(
 );
 
 var app = builder.Build();
+app.UseAuthentication();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

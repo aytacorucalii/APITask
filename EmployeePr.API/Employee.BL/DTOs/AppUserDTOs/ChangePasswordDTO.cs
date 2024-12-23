@@ -15,7 +15,19 @@ public class ChangePasswordDTOValidation : AbstractValidator<ChangePasswordDTO>
     public ChangePasswordDTOValidation()
     {
         RuleFor(b => b.Email).Must(e => ValidEmailAddress(e))
-            .WithMessage("Enter correct email address");
+      .WithMessage("Enter correct email address");
+
+        RuleFor(b => b.NewPassword)
+      .NotEmpty()
+      .WithMessage("Password cannot be empty")
+      .MinimumLength(8)
+      .WithMessage("Password must be at least 6 characters long")
+      .Matches("[a-z]")
+      .WithMessage("Password must contain at least one lowercase letter")
+      .Matches("[0-9]")
+      .WithMessage("Password must contain at least one digit");
+
+     
     }
 
     public bool ValidEmailAddress(string email)

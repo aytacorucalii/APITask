@@ -1,6 +1,4 @@
-﻿using employeePr.DAL.Repositories.Abstractions;
-using employeePr.DAL.Repositories.Implementations;
-using EmployeePr.BL.Services.Abstractions;
+﻿using EmployeePr.BL.Services.Abstractions;
 using EmployeePr.BL.Services.Implementations;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -13,5 +11,6 @@ public static class ServicesConfiguration
        Service.AddScoped<IEmployeeService, EmployeeService>();
        Service.AddScoped<IDepartmentService, DepartmentService>();
        Service.AddScoped<IAuthService, AuthService>();
+       Service.AddScoped<IEmailService,EmailService>();
     }
 }

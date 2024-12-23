@@ -1,5 +1,47 @@
 [
   {
+    "ContainingType": "EmployeeProj.Api.Controllers.AuthsController",
+    "Method": "Login",
+    "RelativePath": "api/Auths/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginUserDto",
+        "Type": "EmployeePr.BL.DTOs.AppUserDTOs.LoginUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeProj.Api.Controllers.AuthsController",
+    "Method": "Logout",
+    "RelativePath": "api/Auths/Logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeProj.Api.Controllers.AuthsController",
+    "Method": "Register",
+    "RelativePath": "api/Auths/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appUserCreateDto",
+        "Type": "EmployeePr.BL.DTOs.AppUserDTOs.AppUserCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "EmployeeProj.Api.Controllers.DepartmentsController",
     "Method": "GetAll",
     "RelativePath": "api/Departments",
@@ -28,12 +70,22 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "department",
-        "Type": "EmployeePr.Core.Entities.Department",
+        "Name": "createDepartmentDTO",
+        "Type": "EmployeePr.BL.DTOs.DepartmentDTOs.CreateDepartmentDTO",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "EmployeePr.Core.Entities.Department",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "EmployeeProj.Api.Controllers.DepartmentsController",

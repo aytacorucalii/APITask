@@ -3,36 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\employee.DAL\\Migrations\\20241222214741_IdentityUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employee.DAL\\Migrations\\20241222214741_IdentityUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|c:\\users\\hp\\onedrive\\desktop\\api-hometask\\employeepr.api\\employee.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|solutionrelative:employee.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|c:\\users\\hp\\onedrive\\desktop\\api-hometask\\employeepr.api\\employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|solutionrelative:employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\api-hometask\\employeepr.api\\employee.dal\\dal\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|solutionrelative:employee.dal\\dal\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\api-hometask\\employeepr.api\\employee.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|solutionrelative:employee.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\hp\\onedrive\\desktop\\api-hometask\\employeepr.api\\employee.bl\\services\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\services\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|c:\\users\\hp\\onedrive\\desktop\\api-hometask\\employeepr.api\\employee.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|solutionrelative:employee.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|c:\\users\\hp\\onedrive\\desktop\\api-hometask\\employeepr.api\\employee.api\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|solutionrelative:employee.api\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|c:\\users\\hp\\onedrive\\desktop\\api-hometask\\employeepr.api\\employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D010658D-A459-4D12-A6E3-4821757B15EE}|Employee.Api\\EmployeeProj.Api.csproj|solutionrelative:employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\hp\\onedrive\\desktop\\api-hometask\\employeepr.api\\employee.bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\hp\\onedrive\\desktop\\api-hometask\\employeepr.api\\employee.bl\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\hp\\onedrive\\desktop\\api-hometask\\employeepr.api\\employee.bl\\services\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\services\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\hp\\onedrive\\desktop\\api-hometask\\employeepr.api\\employee.bl\\services\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\services\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\hp\\onedrive\\desktop\\api-hometask\\employeepr.api\\employee.bl\\services\\abstractions\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\services\\abstractions\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\api-hometask\\employeepr.api\\employee.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277D88E2-D7E7-42D7-9BB2-7CF0356F27FA}|employee.DAL\\employeePr.DAL.csproj|solutionrelative:employee.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\hp\\onedrive\\desktop\\api-hometask\\employeepr.api\\employee.bl\\dtos\\appuserdtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\dtos\\appuserdtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\hp\\onedrive\\desktop\\api-hometask\\employeepr.api\\employee.bl\\dtos\\appuserdtos\\appusercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\dtos\\appuserdtos\\appusercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|c:\\users\\hp\\onedrive\\desktop\\api-hometask\\employeepr.api\\employee.bl\\dtos\\appuserdtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9281E98-FAE4-49E4-BB85-8A0312F05754}|Employee.BL\\EmployeePr.BL.csproj|solutionrelative:employee.bl\\dtos\\appuserdtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,13 +66,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "AppUserCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.BL\\DTOs\\AppUserDTOs\\AppUserCreateDTO.cs",
               "RelativeDocumentMoniker": "Employee.BL\\DTOs\\AppUserDTOs\\AppUserCreateDTO.cs",
               "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.BL\\DTOs\\AppUserDTOs\\AppUserCreateDTO.cs",
               "RelativeToolTip": "Employee.BL\\DTOs\\AppUserDTOs\\AppUserCreateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwCUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T21:08:20.033Z",
               "IsPinned": true,
@@ -60,13 +80,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.BL\\Services\\Implementations\\AuthService.cs",
               "RelativeDocumentMoniker": "Employee.BL\\Services\\Implementations\\AuthService.cs",
               "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.BL\\Services\\Implementations\\AuthService.cs",
               "RelativeToolTip": "Employee.BL\\Services\\Implementations\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwE0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T21:20:13.59Z",
               "IsPinned": true,
@@ -75,81 +95,142 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20241222214741_IdentityUser.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\employee.DAL\\Migrations\\20241222214741_IdentityUser.cs",
-              "RelativeDocumentMoniker": "employee.DAL\\Migrations\\20241222214741_IdentityUser.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\employee.DAL\\Migrations\\20241222214741_IdentityUser.cs",
-              "RelativeToolTip": "employee.DAL\\Migrations\\20241222214741_IdentityUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.Api\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Employee.Api\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.Api\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Employee.Api\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T21:47:41.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppUserConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\employee.DAL\\DAL\\Configurations\\AppUserConfiguration.cs",
-              "RelativeDocumentMoniker": "employee.DAL\\DAL\\Configurations\\AppUserConfiguration.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\employee.DAL\\DAL\\Configurations\\AppUserConfiguration.cs",
-              "RelativeToolTip": "employee.DAL\\DAL\\Configurations\\AppUserConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T21:41:39.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\employee.DAL\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "employee.DAL\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\employee.DAL\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "employee.DAL\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T21:40:02.714Z",
+              "WhenOpened": "2024-12-23T12:29:55.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.Api\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Employee.Api\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.Api\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Employee.Api\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:29:40.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.BL\\Services\\Implementations\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Employee.BL\\Services\\Implementations\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.BL\\Services\\Implementations\\EmployeeService.cs",
+              "RelativeToolTip": "Employee.BL\\Services\\Implementations\\EmployeeService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:08:32.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.BL\\Services\\Abstractions\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "Employee.BL\\Services\\Abstractions\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.BL\\Services\\Abstractions\\IDepartmentService.cs",
+              "RelativeToolTip": "Employee.BL\\Services\\Abstractions\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:08:24.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\employee.DAL\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "employee.DAL\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\employee.DAL\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "employee.DAL\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:05:16.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChangePasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.BL\\DTOs\\AppUserDTOs\\ChangePasswordDTO.cs",
+              "RelativeDocumentMoniker": "Employee.BL\\DTOs\\AppUserDTOs\\ChangePasswordDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.BL\\DTOs\\AppUserDTOs\\ChangePasswordDTO.cs",
+              "RelativeToolTip": "Employee.BL\\DTOs\\AppUserDTOs\\ChangePasswordDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:48:38.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.BL\\DTOs\\AppUserDTOs\\LoginUserDTO.cs",
+              "RelativeDocumentMoniker": "Employee.BL\\DTOs\\AppUserDTOs\\LoginUserDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.BL\\DTOs\\AppUserDTOs\\LoginUserDTO.cs",
+              "RelativeToolTip": "Employee.BL\\DTOs\\AppUserDTOs\\LoginUserDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:47:05.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.BL\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Employee.BL\\Services\\Abstractions\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.BL\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeToolTip": "Employee.BL\\Services\\Abstractions\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:44:36.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.Api\\Program.cs",
               "RelativeDocumentMoniker": "Employee.Api\\Program.cs",
               "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.Api\\Program.cs",
               "RelativeToolTip": "Employee.Api\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAuwA4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T21:37:06.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.BL\\Services\\Implementations\\DepartmentService.cs",
               "RelativeDocumentMoniker": "Employee.BL\\Services\\Implementations\\DepartmentService.cs",
               "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.BL\\Services\\Implementations\\DepartmentService.cs",
               "RelativeToolTip": "Employee.BL\\Services\\Implementations\\DepartmentService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T21:36:38.186Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "AuthsController.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.Api\\Controllers\\AuthsController.cs",
               "RelativeDocumentMoniker": "Employee.Api\\Controllers\\AuthsController.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.Api\\Controllers\\AuthsController.cs",
-              "RelativeToolTip": "Employee.Api\\Controllers\\AuthsController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\API-HomeTask\\EmployeePr.API\\Employee.Api\\Controllers\\AuthsController.cs*",
+              "RelativeToolTip": "Employee.Api\\Controllers\\AuthsController.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwDcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T21:30:07.306Z",
               "EditorCaption": ""

@@ -33,8 +33,23 @@ public class AppUserDTOValidation : AbstractValidator<AppUserCreateDTO>
        .Matches(@"\(\+994\)(50|51|55|70|77|90|99)-\d{3}-\d{2}-\d{2}$")
        .WithMessage("Enter a valid  phone number (+994)XX-XXX-XX-XX ");
 
-
         RuleFor(b => b.Email).Must(e => ValidEmailAddress(e)).WithMessage("Enter correct email address");
+
+        RuleFor(b => b.Password)
+       .NotEmpty()
+       .WithMessage("Password cannot be empty")
+       .MinimumLength(8)
+       .WithMessage("Password must be at least 8 characters long")
+       .Matches("[a-z]")
+       .WithMessage("Password must contain at least one lowercase letter")
+       .Matches("[0-9]")
+       .WithMessage("Password must contain at least one digit");
+
+        RuleFor(b => b.ConfirmPassword)
+       .NotEmpty()
+       .WithMessage("Confirm Password cannot be empty")
+       .Equal(b => b.Password)
+       .WithMessage("Passwords do not match");
     }
 
     public bool ValidEmailAddress(string email)
