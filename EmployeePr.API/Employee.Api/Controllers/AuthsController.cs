@@ -36,8 +36,8 @@ public class AuthsController : ControllerBase
             return StatusCode(StatusCodes.Status400BadRequest, e.Message);
         }
     }
-    [HttpPost("Login")]
-    public async Task<IActionResult> Login(LoginUserDTO loginUserDto)
+    [HttpPost("login")]
+    public async Task<IActionResult> Login(LoginUserDTO UserLoginDto)
     {
         if (!ModelState.IsValid)
         {
@@ -45,7 +45,7 @@ public class AuthsController : ControllerBase
         }
         try
         {
-            return StatusCode(StatusCodes.Status200OK, await _authService.Login(loginUserDto));
+            return StatusCode(StatusCodes.Status200OK, await _authService.LoginAsync(UserLoginDto));
         }
         catch (Exception e)
         {
@@ -53,21 +53,23 @@ public class AuthsController : ControllerBase
             return StatusCode(StatusCodes.Status400BadRequest, e.Message);
         }
     }
-    [HttpPost("Logout")]
-    public async Task<IActionResult> Logout()
-    {
-        if (!ModelState.IsValid)
-        {
-            return StatusCode(StatusCodes.Status400BadRequest, ModelState);
-        }
-        try
-        {
-            return StatusCode(StatusCodes.Status200OK, await _authService.Logout());
-        }
-        catch (Exception e)
-        {
 
-            return StatusCode(StatusCodes.Status400BadRequest, e.Message);
-        }
-    }
 }
+    //[HttpPost("Logout")]
+    //public async Task<IActionResult> Logout()
+    //{
+    //    if (!ModelState.IsValid)
+    //    {
+    //        return StatusCode(StatusCodes.Status400BadRequest, ModelState);
+    //    }
+    //    try
+    //    {
+    //        return StatusCode(StatusCodes.Status200OK, await _authService.Logout());
+    //    }
+    //    catch (Exception e)
+    //    {
+
+    //        return StatusCode(StatusCodes.Status400BadRequest, e.Message);
+    //    }
+    //}
+

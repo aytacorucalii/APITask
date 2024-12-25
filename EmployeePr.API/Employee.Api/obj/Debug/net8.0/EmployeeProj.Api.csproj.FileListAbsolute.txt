@@ -306,3 +306,4 @@ C:\Users\Hp\OneDrive\Desktop\API-HomeTask\EmployeePr.API\Employee.Api\bin\Debug\
 C:\Users\Hp\OneDrive\Desktop\API-HomeTask\EmployeePr.API\Employee.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Hp\OneDrive\Desktop\API-HomeTask\EmployeePr.API\Employee.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Hp\OneDrive\Desktop\API-HomeTask\EmployeePr.API\Employee.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Hp\OneDrive\Desktop\API-HomeTask\EmployeePr.API\Employee.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

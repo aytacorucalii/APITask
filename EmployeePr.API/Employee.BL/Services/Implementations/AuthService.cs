@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using EmployeePr.BL.DTOs.AppUserDTOs;
+using EmployeePr.BL.ExternalServices.Interfaces;
 using EmployeePr.BL.Services.Abstractions;
 using EmployeePr.BL.Utilities.Enums;
 using EmployeePr.Core.Entities;
@@ -14,12 +15,14 @@ public class AuthService : IAuthService
     private readonly SignInManager<AppUser> _signInManager;
     private readonly RoleManager<IdentityRole> _roleManager;
     private readonly IMapper _mapper;
-    public AuthService(IMapper mapper, UserManager<AppUser> userManager, SignInManager<AppUser> signInManager, RoleManager<IdentityRole> roleManager)
+    private readonly IJwtTokenService _jwtTokenService;
+    public AuthService(IMapper mapper, UserManager<AppUser> userManager, SignInManager<AppUser> signInManager, RoleManager<IdentityRole> roleManager, IJwtTokenService jwtTokenService)
     {
         _mapper = mapper;
         _userManager = userManager;
         _signInManager = signInManager;
         _roleManager = roleManager;
+        _jwtTokenService = jwtTokenService;
     }
     public async Task<bool> RegisterAsync(AppUserCreateDTO appUserCreate)
     {
@@ -53,23 +56,15 @@ public class AuthService : IAuthService
         var result = await _userManager.ConfirmEmailAsync(user, token);
         return result.Succeeded;
     }
-    public async Task<bool> Login(LoginUserDTO loginUserDto)
+    public async Task<string> LoginAsync(LoginUserDTO entityLoginDto)
     {
-        AppUser? user = await _userManager.FindByNameAsync(loginUserDto.Email);
-        if (user != null)
-        {
-            user = await _userManager.FindByNameAsync(loginUserDto.Email);
-        }
-        if (user == null)
-        {
-            throw new Exception("Please enter Email or Username");
-        }
-        var result = await _signInManager.CheckPasswordSignInAsync(user, loginUserDto.Password, loginUserDto.IsPersistent = true);
-        if (!result.Succeeded) 
-        {
-            throw new Exception("Something went wrong");
-        }
-        return true;
+        AppUser? existingUser = await _userManager.FindByNameAsync(entityLoginDto.UserName);
+        if (existingUser == null) { throw new Exception("Not found"); }
+        bool result = await _userManager.CheckPasswordAsync(existingUser, entityLoginDto.Password);
+        if (!result) { throw new Exception("Username or password is wrong"); }
+        string token = _jwtTokenService.GenerateToken(existingUser);
+        return token;
+
 
     }
 

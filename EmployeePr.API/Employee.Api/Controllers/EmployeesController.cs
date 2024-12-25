@@ -1,6 +1,7 @@
 ﻿using EmployeePr.BL.DTOs.EmployeeDTOs;
 using EmployeePr.BL.Services.Abstractions;
 using EmployeePr.Core.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EmployeeProj.Api.Controllers;
@@ -38,7 +39,9 @@ public class EmployeesController : ControllerBase
     }
 
 
-    [HttpPost]
+    
+    [Authorize(Roles = "Admin")] 
+    [HttpPost("Create")]
     public async Task<ActionResult<Employee>> Create(CreateEmployeeDTO createEmployee)
     {
         if (!ModelState.IsValid)
