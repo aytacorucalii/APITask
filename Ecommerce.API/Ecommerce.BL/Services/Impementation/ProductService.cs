@@ -1,4 +1,5 @@
-﻿using Ecommerce.BL.DTOs.ProductDTO;
+﻿using AutoMapper;
+using Ecommerce.BL.DTOs.ProductDTO;
 using Ecommerce.BL.Services.Abstractions;
 using Ecommerce.Core.Entities;
 using Ecommerce.DAL.Repositories.Abstractions;
@@ -8,34 +9,37 @@ namespace Ecommerce.BL.Services.Impementation;
 public class ProductService : IProductService
 {
     private readonly IProductRepository _productRepository;
-
-    public ProductService(IProductRepository productRepository)
+    private readonly IMapper _mapper;
+    public ProductService(IProductRepository productRepository, IMapper mapper)
     {
         _productRepository = productRepository;
+        _mapper = mapper;
+    }
+    public async Task<IEnumerable<Product>> GetAllAsync()
+    {
+      return await _productRepository.GetAllAsync();
     }
 
-    public Task<Product> CreateAsync(ProductCreateDto department)
+    public async Task<Product> GetByIdAsync(int id)
     {
-        throw new NotImplementedException();
+        return await _productRepository.GetByIdAsync(id);
     }
 
-    public Task DeleteAsync(int id)
+
+    public async Task<Product> CreateAsync(ProductCreateDto productdto)
     {
-        throw new NotImplementedException();
+        Product product = _mapper.Map<Product>(productdto);
+        await _productRepository.CreateAsync(product);
+        return product;
     }
 
-    public Task<IEnumerable<Product>> GetAllAsync()
+    public async Task DeleteAsync(int id)
     {
-        throw new NotImplementedException();
+       await _productRepository.DeleteAsync(id);
     }
 
-    public Task<Product> GetByIdAsync(int id)
+    public async Task Update(Product productdto)
     {
-        throw new NotImplementedException();
-    }
-
-    public Task Update(Product department)
-    {
-        throw new NotImplementedException();
+        await _productRepository.Update(productdto);
     }
 }

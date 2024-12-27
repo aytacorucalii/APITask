@@ -4,7 +4,7 @@ using Ecommerce.DAL.Repositories.Abstractions;
 
 namespace Ecommerce.DAL.Repositories.Implementations;
 
-public class ProductRepository : GenericRepository<Product>, IGenericRepository<Product>
+public class ProductRepository : GenericRepository<Product>, IProductRepository
 {
     public ProductRepository(AppDbContext appDbContext) : base(appDbContext)
     {

@@ -7,7 +7,7 @@ public interface IOrderItemService
 {
     Task<IEnumerable<OrderItem>> GetAllAsync();
     Task<OrderItem> GetByIdAsync(int id);
-    Task<OrderItem> CreateAsync(OrderItemCreateDto department);
-    Task Update(OrderItem department);
+    Task<OrderItem> CreateAsync(OrderItemCreateDto OrderItem);
+    Task Update(OrderItem OrderItem);
     Task DeleteAsync(int id);
 }

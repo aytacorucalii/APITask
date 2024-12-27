@@ -1,4 +1,5 @@
-﻿using Ecommerce.BL.DTOs.OrderDTO;
+﻿using AutoMapper;
+using Ecommerce.BL.DTOs.OrderDTO;
 using Ecommerce.BL.Services.Abstractions;
 using Ecommerce.Core.Entities;
 using Ecommerce.DAL.Repositories.Abstractions;
@@ -8,34 +9,43 @@ namespace Ecommerce.BL.Services.Impementation;
 public class OrderService : IOrderService
 {
     private readonly IOrderRepository _orderRepository;
+    private readonly IMapper _mapper;
 
-    public OrderService(IOrderRepository orderRepository)
+    public OrderService(IOrderRepository orderRepository, IMapper mapper)
     {
         _orderRepository = orderRepository;
+        _mapper = mapper;
+    }
+    public async Task<IEnumerable<Order>> GetAllAsync()
+    {
+        return await _orderRepository.GetAllAsync();
     }
 
-    public Task<OrderItem> CreateAsync(OrderCreateDto department)
+    public async Task<Order> GetByIdAsync(int id)
     {
-        throw new NotImplementedException();
+        return await _orderRepository.GetByIdAsync(id);
     }
 
-    public Task DeleteAsync(int id)
+    public async Task<Order> CreateAsync(OrderCreateDto department)
     {
-        throw new NotImplementedException();
+        Order order = _mapper.Map<Order>(department);
+        await _orderRepository.CreateAsync(order);
+        return order;
     }
 
-    public Task<IEnumerable<Order>> GetAllAsync()
+    public async Task DeleteAsync(int id)
     {
-        throw new NotImplementedException();
+        var orderEntity = await GetByIdAsync(id);
+        _orderRepository.DeleteAsync(orderEntity);
+        await _orderRepository.SaveChangesAsync();
+        return ;
     }
 
-    public Task<Order> GetByIdAsync(int id)
-    {
-        throw new NotImplementedException();
-    }
 
-    public Task Update(Order department)
+
+    public async Task Update(Order department)
     {
-        throw new NotImplementedException();
+        await _orderRepository.Update(department);
     }
 }
+

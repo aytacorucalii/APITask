@@ -26,7 +26,7 @@ public class GenericRepository<Tentity> : IGenericRepository<Tentity> where Tent
         return await Table.FindAsync(id);
     }
 
-    public async Task UpdateAsync(Tentity entity)
+    public async Task Update(Tentity entity)
     {
         Table.Update(entity);
         await _appDbContext.SaveChangesAsync();

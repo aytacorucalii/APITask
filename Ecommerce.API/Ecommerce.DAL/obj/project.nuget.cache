@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/hcXCpjGBgA=",
+  "dgSpecHash": "uCfYN5/Ey4k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\II Novbe\\source\\repos\\Ecommerce.API\\Ecommerce.DAL\\Ecommerce.DAL.csproj",
+  "projectFilePath": "C:\\Users\\II Novbe\\Desktop\\APi\\API-Task\\Ecommerce.API\\Ecommerce.DAL\\Ecommerce.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\II Novbe\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\II Novbe\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

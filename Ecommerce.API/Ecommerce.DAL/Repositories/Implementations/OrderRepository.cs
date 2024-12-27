@@ -4,7 +4,7 @@ using Ecommerce.DAL.Repositories.Abstractions;
 
 namespace Ecommerce.DAL.Repositories.Implementations;
 
-public class OrderRepository : GenericRepository<Order>, IGenericRepository<Order>
+public class OrderRepository : GenericRepository<Order>, IOrderRepository
 {
     public OrderRepository(AppDbContext appDbContext) : base(appDbContext)
     {
