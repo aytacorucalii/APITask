@@ -1,0 +1,1157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\Final.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Migrations\\20250105130900_Nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final.DAL\\Migrations\\20250105130900_Nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E340BA48-51EF-44C7-A9FE-8E897707EF40}|Final.Core\\Final.Core.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.core\\entities\\base\\baseauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E340BA48-51EF-44C7-A9FE-8E897707EF40}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\base\\baseauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E340BA48-51EF-44C7-A9FE-8E897707EF40}|Final.Core\\Final.Core.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E340BA48-51EF-44C7-A9FE-8E897707EF40}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E340BA48-51EF-44C7-A9FE-8E897707EF40}|Final.Core\\Final.Core.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E340BA48-51EF-44C7-A9FE-8E897707EF40}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\dtos\\productdtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\productdtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\dtos\\categorydtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\categorydtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E340BA48-51EF-44C7-A9FE-8E897707EF40}|Final.Core\\Final.Core.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E340BA48-51EF-44C7-A9FE-8E897707EF40}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953AB4CB-A12E-476E-99CD-10B7182E1C67}|FinalPr.API\\FinalPr.API.csproj|c:\\users\\hp\\source\\repos\\final.api\\finalpr.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953AB4CB-A12E-476E-99CD-10B7182E1C67}|FinalPr.API\\FinalPr.API.csproj|solutionrelative:finalpr.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\services\\abstractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953AB4CB-A12E-476E-99CD-10B7182E1C67}|FinalPr.API\\FinalPr.API.csproj|c:\\users\\hp\\source\\repos\\final.api\\finalpr.api\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953AB4CB-A12E-476E-99CD-10B7182E1C67}|FinalPr.API\\FinalPr.API.csproj|solutionrelative:finalpr.api\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953AB4CB-A12E-476E-99CD-10B7182E1C67}|FinalPr.API\\FinalPr.API.csproj|c:\\users\\hp\\source\\repos\\final.api\\finalpr.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953AB4CB-A12E-476E-99CD-10B7182E1C67}|FinalPr.API\\FinalPr.API.csproj|solutionrelative:finalpr.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\services\\implementations\\productcolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\productcolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\services\\implementations\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953AB4CB-A12E-476E-99CD-10B7182E1C67}|FinalPr.API\\FinalPr.API.csproj|c:\\users\\hp\\source\\repos\\final.api\\finalpr.api\\finalpr.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{953AB4CB-A12E-476E-99CD-10B7182E1C67}|FinalPr.API\\FinalPr.API.csproj|solutionrelative:finalpr.api\\finalpr.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.dal\\dataconfigurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\dataconfigurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.dal\\dataconfigurations\\repo\\repositoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\dataconfigurations\\repo\\repositoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\configurations\\serviceconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\configurations\\serviceconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\services\\abstractions\\iproductcolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\iproductcolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\externalservices\\impementations\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\externalservices\\impementations\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\externalservices\\abstractions\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\externalservices\\abstractions\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\profiles\\categoryprofiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\categoryprofiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953AB4CB-A12E-476E-99CD-10B7182E1C67}|FinalPr.API\\FinalPr.API.csproj|c:\\users\\hp\\source\\repos\\final.api\\finalpr.api\\controllers\\sizescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953AB4CB-A12E-476E-99CD-10B7182E1C67}|FinalPr.API\\FinalPr.API.csproj|solutionrelative:finalpr.api\\controllers\\sizescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\services\\implementations\\sizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\sizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\services\\abstractions\\isizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\isizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\services\\abstractions\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\dtos\\sizedtos\\sizecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\sizedtos\\sizecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\dtos\\colordtos\\colorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\colordtos\\colorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953AB4CB-A12E-476E-99CD-10B7182E1C67}|FinalPr.API\\FinalPr.API.csproj|c:\\users\\hp\\source\\repos\\final.api\\finalpr.api\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953AB4CB-A12E-476E-99CD-10B7182E1C67}|FinalPr.API\\FinalPr.API.csproj|solutionrelative:finalpr.api\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953AB4CB-A12E-476E-99CD-10B7182E1C67}|FinalPr.API\\FinalPr.API.csproj|c:\\users\\hp\\source\\repos\\final.api\\finalpr.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953AB4CB-A12E-476E-99CD-10B7182E1C67}|FinalPr.API\\FinalPr.API.csproj|solutionrelative:finalpr.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\services\\implementations\\productsizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implementations\\productsizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\dtos\\productsizedtos\\productsizecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\productsizedtos\\productsizecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\dtos\\productcolordtos\\productcolorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\productcolordtos\\productcolorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\dtos\\productdtos\\producteditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\productdtos\\producteditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953AB4CB-A12E-476E-99CD-10B7182E1C67}|FinalPr.API\\FinalPr.API.csproj|c:\\users\\hp\\source\\repos\\final.api\\finalpr.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{953AB4CB-A12E-476E-99CD-10B7182E1C67}|FinalPr.API\\FinalPr.API.csproj|solutionrelative:finalpr.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.dal\\repositories\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.dal\\repositories\\abstractions\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\abstractions\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\dtos\\appuserdtos\\appuserlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\appuserdtos\\appuserlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\dtos\\appuserdtos\\appusercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\appuserdtos\\appusercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\profiles\\appuserprofiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\appuserprofiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\profiles\\productcolorprofiles\\productsizeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\productcolorprofiles\\productsizeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\profiles\\productcolorprofiles\\productcolorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\productcolorprofiles\\productcolorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\profiles\\colorprofiles\\colorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\colorprofiles\\colorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E340BA48-51EF-44C7-A9FE-8E897707EF40}|Final.Core\\Final.Core.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E340BA48-51EF-44C7-A9FE-8E897707EF40}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953AB4CB-A12E-476E-99CD-10B7182E1C67}|FinalPr.API\\FinalPr.API.csproj|c:\\users\\hp\\source\\repos\\final.api\\finalpr.api\\finalpr.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{953AB4CB-A12E-476E-99CD-10B7182E1C67}|FinalPr.API\\FinalPr.API.csproj|solutionrelative:finalpr.api\\finalpr.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.dal\\dataconfigurations\\productsizeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\dataconfigurations\\productsizeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.dal\\dataconfigurations\\productcolorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\dataconfigurations\\productcolorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.dal\\dataconfigurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\dataconfigurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.dal\\dataconfigurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\dataconfigurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E340BA48-51EF-44C7-A9FE-8E897707EF40}|Final.Core\\Final.Core.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.core\\entities\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E340BA48-51EF-44C7-A9FE-8E897707EF40}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E340BA48-51EF-44C7-A9FE-8E897707EF40}|Final.Core\\Final.Core.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.core\\entities\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E340BA48-51EF-44C7-A9FE-8E897707EF40}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\services\\abstractions\\iproductsizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstractions\\iproductsizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\profiles\\sizeprofiles\\sizeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\sizeprofiles\\sizeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.bl\\profiles\\productprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B77AB-F323-4D22-9B04-B786DBDEDAF2}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\productprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E340BA48-51EF-44C7-A9FE-8E897707EF40}|Final.Core\\Final.Core.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.core\\entities\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E340BA48-51EF-44C7-A9FE-8E897707EF40}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E340BA48-51EF-44C7-A9FE-8E897707EF40}|Final.Core\\Final.Core.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.core\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E340BA48-51EF-44C7-A9FE-8E897707EF40}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.dal\\repositories\\implementations\\sizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\implementations\\sizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.dal\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.dal\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.dal\\repositories\\abstractions\\isizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\abstractions\\isizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.dal\\repositories\\abstractions\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\abstractions\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|c:\\users\\hp\\source\\repos\\final.api\\final.dal\\final.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{168AE355-953B-40E5-BDCD-13BE8B5669F9}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\final.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250105130900_Nullable.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Migrations\\20250105130900_Nullable.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Migrations\\20250105130900_Nullable.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Migrations\\20250105130900_Nullable.cs",
+              "RelativeToolTip": "Final.DAL\\Migrations\\20250105130900_Nullable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:09:00.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\DTOs\\CategoryDTOs\\CategoryCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\CategoryDTOs\\CategoryCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\DTOs\\CategoryDTOs\\CategoryCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\CategoryDTOs\\CategoryCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:32:23.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:15:01.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:14:48.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\DTOs\\ProductDTOs\\ProductCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\ProductDTOs\\ProductCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\DTOs\\ProductDTOs\\ProductCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\ProductDTOs\\ProductCreateDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:20:13.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:13:56.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseAuditable.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.Core\\Entities\\Base\\BaseAuditable.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Base\\BaseAuditable.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.Core\\Entities\\Base\\BaseAuditable.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Base\\BaseAuditable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:14:23.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\FinalPr.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "FinalPr.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\FinalPr.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "FinalPr.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwGEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:50:21.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Abstractions\\IProductService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Abstractions\\IProductService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:17:01.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\ProductService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAEwF8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:56:18.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\FinalPr.API\\Controllers\\AuthsController.cs",
+              "RelativeDocumentMoniker": "FinalPr.API\\Controllers\\AuthsController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\FinalPr.API\\Controllers\\AuthsController.cs",
+              "RelativeToolTip": "FinalPr.API\\Controllers\\AuthsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:48:40.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\FinalPr.API\\Program.cs",
+              "RelativeDocumentMoniker": "FinalPr.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\FinalPr.API\\Program.cs",
+              "RelativeToolTip": "FinalPr.API\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwEUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:31:22.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:56:48.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductColorService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Implementations\\ProductColorService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\ProductColorService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Implementations\\ProductColorService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\ProductColorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:46:14.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ColorService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Implementations\\ColorService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\ColorService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Implementations\\ColorService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\ColorService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:56:32.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:17:51.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FinalPr.API",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\FinalPr.API\\FinalPr.API.csproj",
+              "RelativeDocumentMoniker": "FinalPr.API\\FinalPr.API.csproj",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\FinalPr.API\\FinalPr.API.csproj",
+              "RelativeToolTip": "FinalPr.API\\FinalPr.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-05T12:15:25.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppUserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\DataConfigurations\\AppUserConfiguration.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\DataConfigurations\\AppUserConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\DataConfigurations\\AppUserConfiguration.cs",
+              "RelativeToolTip": "Final.DAL\\DataConfigurations\\AppUserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:11:13.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RepositoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\DataConfigurations\\Repo\\RepositoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\DataConfigurations\\Repo\\RepositoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\DataConfigurations\\Repo\\RepositoryConfiguration.cs",
+              "RelativeToolTip": "Final.DAL\\DataConfigurations\\Repo\\RepositoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:04:32.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductColorService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Abstractions\\IProductColorService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\IProductColorService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Abstractions\\IProductColorService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\IProductColorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:36:30.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Configurations\\ServiceConfigurations.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Configurations\\ServiceConfigurations.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Configurations\\ServiceConfigurations.cs",
+              "RelativeToolTip": "Final.BL\\Configurations\\ServiceConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:00:40.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Final.DAL\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:24:23.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\ExternalServices\\Abstractions\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\ExternalServices\\Abstractions\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\ExternalServices\\Abstractions\\IJwtTokenService.cs",
+              "RelativeToolTip": "Final.BL\\ExternalServices\\Abstractions\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:43:50.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\ExternalServices\\Impementations\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\ExternalServices\\Impementations\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\ExternalServices\\Impementations\\JwtTokenService.cs",
+              "RelativeToolTip": "Final.BL\\ExternalServices\\Impementations\\JwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:44:37.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Profiles\\CategoryProfiles\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\CategoryProfiles\\CategoryProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Profiles\\CategoryProfiles\\CategoryProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\CategoryProfiles\\CategoryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:08:34.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SizeService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Implementations\\SizeService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\SizeService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Implementations\\SizeService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\SizeService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:57:07.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ISizeService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Abstractions\\ISizeService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\ISizeService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Abstractions\\ISizeService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\ISizeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:17:52.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SizesController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\FinalPr.API\\Controllers\\SizesController.cs",
+              "RelativeDocumentMoniker": "FinalPr.API\\Controllers\\SizesController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\FinalPr.API\\Controllers\\SizesController.cs",
+              "RelativeToolTip": "FinalPr.API\\Controllers\\SizesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:25:08.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IColorService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Abstractions\\IColorService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\IColorService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Abstractions\\IColorService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\IColorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:17:34.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SizeCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\DTOs\\SizeDTOs\\SizeCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\SizeDTOs\\SizeCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\DTOs\\SizeDTOs\\SizeCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\SizeDTOs\\SizeCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:39:06.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ColorCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\DTOs\\ColorDTOs\\ColorCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\ColorDTOs\\ColorCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\DTOs\\ColorDTOs\\ColorCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\ColorDTOs\\ColorCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:38:53.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ColorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\FinalPr.API\\Controllers\\ColorsController.cs",
+              "RelativeDocumentMoniker": "FinalPr.API\\Controllers\\ColorsController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\FinalPr.API\\Controllers\\ColorsController.cs",
+              "RelativeToolTip": "FinalPr.API\\Controllers\\ColorsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA8wDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:21:19.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\FinalPr.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "FinalPr.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\FinalPr.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "FinalPr.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:13:59.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductSizeService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Implementations\\ProductSizeService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implementations\\ProductSizeService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Implementations\\ProductSizeService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implementations\\ProductSizeService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:46:30.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:17:19.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductSizeCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\DTOs\\ProductSizeDTOs\\ProductSizeCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\ProductSizeDTOs\\ProductSizeCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\DTOs\\ProductSizeDTOs\\ProductSizeCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\ProductSizeDTOs\\ProductSizeCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:43:42.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductColorCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\DTOs\\ProductColorDTOs\\ProductColorCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\ProductColorDTOs\\ProductColorCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\DTOs\\ProductColorDTOs\\ProductColorCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\ProductColorDTOs\\ProductColorCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:41:42.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductEditDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\DTOs\\ProductDTOs\\ProductEditDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\ProductDTOs\\ProductEditDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\DTOs\\ProductDTOs\\ProductEditDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\ProductDTOs\\ProductEditDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:57:33.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\FinalPr.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FinalPr.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\FinalPr.API\\appsettings.json",
+              "RelativeToolTip": "FinalPr.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T17:44:35.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:26:31.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:39:17.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:38:38.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:23:07.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Abstractions\\IColorRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Abstractions\\IColorRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Abstractions\\IColorRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Abstractions\\IColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:28:08.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AppUserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\DTOs\\AppUserDTOs\\AppUserLoginDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\AppUserDTOs\\AppUserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\DTOs\\AppUserDTOs\\AppUserLoginDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\AppUserDTOs\\AppUserLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:33:16.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AppUserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Profiles\\AppUserProfiles\\AppUserProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\AppUserProfiles\\AppUserProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Profiles\\AppUserProfiles\\AppUserProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\AppUserProfiles\\AppUserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:24:01.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AppUserCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\DTOs\\AppUserDTOs\\AppUserCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\AppUserDTOs\\AppUserCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\DTOs\\AppUserDTOs\\AppUserCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\AppUserDTOs\\AppUserCreateDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:23:00.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ProductSizeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Profiles\\ProductColorProfiles\\ProductSizeProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\ProductColorProfiles\\ProductSizeProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Profiles\\ProductColorProfiles\\ProductSizeProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\ProductColorProfiles\\ProductSizeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:52:19.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ProductColorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Profiles\\ProductColorProfiles\\ProductColorProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\ProductColorProfiles\\ProductColorProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Profiles\\ProductColorProfiles\\ProductColorProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\ProductColorProfiles\\ProductColorProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:51:58.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ColorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Profiles\\ColorProfiles\\ColorProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\ColorProfiles\\ColorProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Profiles\\ColorProfiles\\ColorProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\ColorProfiles\\ColorProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:10:19.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:22:57.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FinalPr.API.http",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\FinalPr.API\\FinalPr.API.http",
+              "RelativeDocumentMoniker": "FinalPr.API\\FinalPr.API.http",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\FinalPr.API\\FinalPr.API.http",
+              "RelativeToolTip": "FinalPr.API\\FinalPr.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-04T15:30:35.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ProductSizeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\DataConfigurations\\ProductSizeConfiguration.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\DataConfigurations\\ProductSizeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\DataConfigurations\\ProductSizeConfiguration.cs",
+              "RelativeToolTip": "Final.DAL\\DataConfigurations\\ProductSizeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:27:55.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ProductColorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\DataConfigurations\\ProductColorConfiguration.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\DataConfigurations\\ProductColorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\DataConfigurations\\ProductColorConfiguration.cs",
+              "RelativeToolTip": "Final.DAL\\DataConfigurations\\ProductColorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:15:32.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\DataConfigurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\DataConfigurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\DataConfigurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "Final.DAL\\DataConfigurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:01:02.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\DataConfigurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\DataConfigurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\DataConfigurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Final.DAL\\DataConfigurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:12:03.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ProductSize.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.Core\\Entities\\ProductSize.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\ProductSize.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.Core\\Entities\\ProductSize.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\ProductSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:15:32.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProductColor.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.Core\\Entities\\ProductColor.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\ProductColor.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.Core\\Entities\\ProductColor.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\ProductColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:15:45.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IProductSizeService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Abstractions\\IProductSizeService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstractions\\IProductSizeService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Services\\Abstractions\\IProductSizeService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstractions\\IProductSizeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:36:53.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SizeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Profiles\\SizeProfiles\\SizeProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\SizeProfiles\\SizeProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Profiles\\SizeProfiles\\SizeProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\SizeProfiles\\SizeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:13:13.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Profiles\\ProductProfiles\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\ProductProfiles\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.BL\\Profiles\\ProductProfiles\\ProductProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\ProductProfiles\\ProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:11:45.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.Core\\Entities\\Size.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Size.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.Core\\Entities\\Size.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Size.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:15:20.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.Core\\Entities\\Color.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Color.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.Core\\Entities\\Color.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:15:10.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Implementations\\ColorRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Implementations\\ColorRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Implementations\\ColorRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Implementations\\ColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:39:04.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:38:52.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ISizeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Abstractions\\ISizeRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Abstractions\\ISizeRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Abstractions\\ISizeRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Abstractions\\ISizeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:28:44.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "SizeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Implementations\\SizeRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Implementations\\SizeRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Implementations\\SizeRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Implementations\\SizeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:39:29.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Abstractions\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Abstractions\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Abstractions\\IProductRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Abstractions\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:22:35.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:21:43.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Final.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Final.DAL.csproj",
+              "RelativeDocumentMoniker": "Final.DAL\\Final.DAL.csproj",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Final.API\\Final.DAL\\Final.DAL.csproj",
+              "RelativeToolTip": "Final.DAL\\Final.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T12:23:18.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

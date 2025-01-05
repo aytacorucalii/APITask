@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "/ymRmxHAAqTR12AWqui9zV/1J2JmSPOsVoBWjT6/ZTU=",
+  "Source": "FinalPr.API",
+  "BasePath": "_content/FinalPr.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FinalPr.API\\wwwroot",
+      "Source": "FinalPr.API",
+      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\Final.API\\FinalPr.API\\wwwroot\\",
+      "BasePath": "_content/FinalPr.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
